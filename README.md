@@ -1,1 +1,37 @@
 # GoldenBloom
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Startup</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      padding: 30px;
+      background: #f5f5f5;
+    }
+    a {
+      display: block;
+      margin: 15px auto;
+      padding: 14px;
+      max-width: 280px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Your Startup Name</h2>
+
+<a href="https://instagram.com/goldenbloom.onegramgold">Instagram</a>
+<a href="https://youtube.com/@GoldemBloom-v3q">YouTube</a>
+<a href="https://facebook.com/Golden Bloom">Facebook</a>
+<a href="https://wa.me/7799242420">WhatsApp</a>
+
+</body>
+</html>
